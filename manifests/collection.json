@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Maria9606.github.io/AnaMendietaExhibition/manifests/finalmanifest.json",
     "label" : "ANA MENDIETA: RETURNING TO THE MATERNAL SOURCE"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maria9606.github.io/AnaMendietaExhibition/manifests/manifest4.json",
+    "label" : "ANA MENDIETA: RETURNING TO THE MATERNAL SOURCE"
   } ]
 }
