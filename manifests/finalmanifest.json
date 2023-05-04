@@ -1,0 +1,447 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Maria9606.github.io/AnaMendietaExhibition/manifests/finalmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "ANA MENDIETA: RETURNING TO THE MATERNAL SOURCE",
+  "metadata" : [ {
+    "label" : "Date",
+    "value" : "May, 2023"
+  }, {
+    "label" : "Manifest Creator",
+    "value" : "María Alejandra González Vallejo "
+  } ],
+  "description" : [ {
+    "@value" : "This gallery reunites five Images / Artworks created by the Cuban artist Ana Mendieta (1948-1985) between 1972 and 1984, reflecting her work using different media tools (photography, performance, sculpture, drawing illustration, natural elements) and exploring the topics related to exile, connection between humans and earth, women condition in a patriarchal context and the violence it is subjected to, and it's Latin American roots connected with the spiritual Cuban rituals. \n\nThese chosen images are connected in different ways to tell her artist and life history; all of them are contained in the MoMA's Collection. The \"Photography Series\" has been a way to present her different ideas, questioning traditional beauty concepts and representing spiritual and earth images through silhouettes and her body. At the end of her life (1985), in 1984 presented a book with Carle Andre, an artist, her husband, and his suspected killer, a book of nature illustrations. In addition, in his sculpture \"Nile Born\" (1984), an inner channel that suggests a vaginal cavity created with sand, synthesizes her whole interest in \"returning to the material source\" as she stated, and generates a synthesis of his artistic proposal before his death. \n\nHer vast influence on Feminism Art, Land Art, Body Art, and Performance is known around the world. Moreover, despite her short life, she was one of the most influential Latin American contemporary artists of the 20th century, and that is why it is important to honor his life. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://bdef6027-7910-47de-864f-2147fdd015af",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://1819b4be-fe7b-46e3-8b21-9c3f45b246d1",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled (Facial Cosmetic Variations)",
+      "height" : 2000,
+      "width" : 1417,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d09bcf43-7efb-4d0b-9e4e-189a9bdde0fc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/FacialCosmeticVariations.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/FacialCosmeticVariations.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 2834000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 1417
+        },
+        "on" : "http://1819b4be-fe7b-46e3-8b21-9c3f45b246d1"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Untitled (Facial Cosmetic Variations)"
+      }, {
+        "label" : "Creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "Subject",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Latin American Art"
+      }, {
+        "label" : "Date",
+        "value" : "January-February, 1972"
+      }, {
+        "label" : "Description",
+        "value" : "Mendieta integrated multiple practices and media -such as film, video, performance, and photography- in diverse experimental series of images. In the Untitled (Facial Cosmetic Variations) (1972) series, she appeared mangled, deformed, or concealed by varied instruments such as wigs, makeup, pantyhose, etc. \nThese photos belong to this group of images and tried to challenge the conventional notions of women's beauty by transforming herself in several ways through self-portraits."
+      }, {
+        "label" : "Contributor",
+        "value" : "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art, in honor of Barbara Foshay"
+      }, {
+        "label" : "Publisher ",
+        "value" : "MoMA Collections"
+      }, {
+        "label" : "Type",
+        "value" : "Physical Object / Printed Photograph "
+      }, {
+        "label" : "Format",
+        "value" : "Four Chromogenic Color Prints. Printed 1997."
+      }, {
+        "label" : "Medium ",
+        "value" : "Analogue Photography "
+      }, {
+        "label" : "Extend",
+        "value" : "Each 19 1/4 × 12 3/4\" (48.9 × 32.4 cm)"
+      }, {
+        "label" : "Identifier ",
+        "value" : "628.1997.a-d.x1-x2"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/55679?classifications=any&date_begin=Pre-1850&date_end=2023&q=ana+mendieta&utf8=%E2%9C%93&with_images=1"
+      }, {
+        "label" : "Language ",
+        "value" : "English"
+      }, {
+        "label" : "Is a version of ",
+        "value" : "Untitled Facial Cosmetic Variations Series "
+      }, {
+        "label" : "Is part of ",
+        "value" : "MoMA's Exhibition (January 28, 2011–May 9, 2011): Staging Action: Performance in Photography Since 1960: https://www.moma.org/calendar/exhibitions/1087"
+      }, {
+        "label" : "Copyright ",
+        "value" : "© 2023 The Estate of Ana Mendieta Collection. Courtesy Galerie Lelong, New York"
+      }, {
+        "label" : "General Keywords",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Land Art; Sculpture; Contemporary Art; Latin American Art."
+      } ]
+    }, {
+      "@id" : "http://1dcefc32-344e-4409-97f1-f35133d824e7",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled (Glass on Body Imprints) ",
+      "height" : 2000,
+      "width" : 1321,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ff1c55e6-f1e6-425b-83d4-f91d099c0778",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/Untitled1972.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/Untitled1972.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 2642000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 1321
+        },
+        "on" : "http://1dcefc32-344e-4409-97f1-f35133d824e7"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Untitled (Glass on Body Imprints) "
+      }, {
+        "label" : "Creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "Subject",
+        "value" : "Feminist Art; Body Art; Performance; Photography; Self-Portrait; Latin American Art"
+      }, {
+        "label" : "Date",
+        "value" : "1972"
+      }, {
+        "label" : "Description",
+        "value" : "Mendieta integrated multiple practices and media -such as film, video, performance, and photography- in diverse experimental series of images. In the Untitled (Glass on Body Imprints) (1972) series, she took a glass pane and moved it through her body, distorting her face and her “feminine beauty”.\n\nThese photos belong to this group of images and tried to challenge the conventional notions of women's beauty by transforming herself in several ways through self-portraits. For these photographs, Mendieta presses her face and parts of her body onto a square sheet of plexiglass, distorting and transforming the appearance of her physical features and youthful beauty. By using her own body as a malleable, sculptural material, Mendieta eliminates traditional visual components of image making, relying instead on the power of her own body as a tool to reexamine the archetype human subject and the gaze in photography. The series marks the artist’s first works of the time-based performance for which she would become known."
+      }, {
+        "label" : "Contributor",
+        "value" : "Gift of Gwen and Peter Norton"
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA Collections"
+      }, {
+        "label" : "Type",
+        "value" : "Physical Object / Analogue Photograph"
+      }, {
+        "label" : "Format",
+        "value" : "Six chromogenic color prints"
+      }, {
+        "label" : "Extent",
+        "value" : "Each 19 5/16 × 12 13/16\" (49 × 32.5 cm)"
+      }, {
+        "label" : "Identifier",
+        "value" : "1136.2011.a-f"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/153237"
+      }, {
+        "label" : "Language",
+        "value" : "English"
+      }, {
+        "label" : "Is a version of",
+        "value" : "Glass on Body Imprints Series"
+      }, {
+        "label" : "Is part of ",
+        "value" : "Institute of Contemporary Art Miami Collection; Installation view of the exhibition \"Transmissions:\nArt in Eastern Europe and Latin America, 1960-1980\" (2015-2016): https://www.moma.org/collection/works/153237?installation_image_index=0"
+      }, {
+        "label" : "Copyright",
+        "value" : "© 2023 The Estate of Ana Mendieta Collection. Courtesy Galerie Lelong, New York"
+      }, {
+        "label" : "General Keywords",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Land Art; Sculpture; Contemporary Art; Latin American Art."
+      } ]
+    }, {
+      "@id" : "http://97f8b61f-5855-43ca-a882-d9ab83d439b8",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled",
+      "height" : 1360,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://97fa04aa-7876-4a0a-aee6-7c81b7bd6b29",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/Untitled1978.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/Untitled1978.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 2720000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 1360,
+          "width" : 2000
+        },
+        "on" : "http://97f8b61f-5855-43ca-a882-d9ab83d439b8"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Untitled"
+      }, {
+        "label" : "Creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "Subject",
+        "value" : "\nFeminist Art; Land Art; Body Art; Performance; Photography; Latin American Art\n"
+      }, {
+        "label" : "Date ",
+        "value" : "1978"
+      }, {
+        "label" : "Description",
+        "value" : "The “Siluetas” comprises more than 200 earth-body works that saw the artist burn, carve, and mold her silhouette into the landscapes of Lowa (United States) and Mexico. The sculptures made tangible Mendieta’s belief of the earth as a goddess, rooted in Afro-Cuban Santería and the indigenous Taíno practices of her homeland.\n\nMendieta’s \"Silueta Series\" (1973-1980), explores the connections between nature and the female body. This photograph documents an ephemeral sculpture – in the shape of the artist’s silhouette and loosely evocative of ancient goddess archetypes – carved directly into the earth with minimal disruption of the environment. Returning to a metaphorical womb and her native Cuban homeland as she molded a feminist subject and land art processes to explore the theme of Exile.\n\nShe used the natural environment as a perpetual setting throughout her career, most memorably in her earth-works such as Siluetas, which were created in various natural locations with meaning to the artist and adorned with elements indigenous to the areas.\n\nThe powerful work washed away all evidence of the artist's presence. In doing so, it evoked the cycles of life, of birth and death, and of coming from and returning to the womb/earth - or simply, that unexplained spiritual place of vast mystery paid homage to in ritual such as this performance.                \nReference: https://www.artsy.net/article/artsy-editorial-artwork-changed-life-ana-mendietas-silueta-series"
+      }, {
+        "label" : "Contributor",
+        "value" : "The Fellows of Photography Fund"
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA Collections"
+      }, {
+        "label" : "Type",
+        "value" : "Physical Object / Analogue Photography "
+      }, {
+        "label" : "Format",
+        "value" : "Gelatin Silver Print"
+      }, {
+        "label" : "Extent",
+        "value" : "13 1/4 × 19 1/2\" (33.6 × 49.5 cm)"
+      }, {
+        "label" : "Identifier",
+        "value" : "668.1994"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/55939"
+      }, {
+        "label" : "Language",
+        "value" : "English"
+      }, {
+        "label" : "Is a version of",
+        "value" : "\"Silueta\" Series (1973-1980)"
+      }, {
+        "label" : "Is part of",
+        "value" : "Installation view of the gallery \"Art as a Verb\" in the exhibition \"Collection 1970s–Present\" (May 15, 2021–ongoing): https://www.moma.org/calendar/galleries"
+      }, {
+        "label" : "Copyright",
+        "value" : "© 2023 The Estate of Ana Mendieta Collection"
+      }, {
+        "label" : "General Keywords",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Land Art; Sculpture; Contemporary Art; Latin American Art."
+      } ]
+    }, {
+      "@id" : "http://c176acc0-145b-4042-968b-04742cb8d95c",
+      "@type" : "sc:Canvas",
+      "label" : "Plate (folio 8) from Pietre Foglie",
+      "height" : 2000,
+      "width" : 1480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://37f46a92-ffb7-462a-8e33-7683bd47ad23",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/AnaMendietawithCarlAndre.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/AnaMendietawithCarlAndre.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 2960000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 2000,
+          "width" : 1480
+        },
+        "on" : "http://c176acc0-145b-4042-968b-04742cb8d95c"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Plate (folio 8) from Pietre Foglie"
+      }, {
+        "label" : "Creator",
+        "value" : "Ana Mendieta with Carl Andre"
+      }, {
+        "label" : "Subject",
+        "value" : "Drawings; Land Art; Photography; Natural Elements; Feminimist Art; Latin American Art"
+      }, {
+        "label" : "Date",
+        "value" : "1984"
+      }, {
+        "label" : "Description",
+        "value" : "This draw is part of \"Ilustrated Book: Pietre Foglie\" is a resulted of awareded the prestigious American Academy residency. In 1983 Mendieta moved to Rome / Italy, where the imagery for Pietre/Foglie was made and the portfolio was published by Edizione R. R. Bulla. Rome, which Mendieta described as a cross between her native Cuba and New York, held special sentimental value for the couple, as they were married there in January 1985. Only months after their wedding, which coincided with the presentation of Pietre/Foglie portfolio at AAM Gallery in Rome, Mendieta’s tragic (and controversial) death ended their tumultuous creative and romantic partnership. Reference: https://addisongallery.wixsite.com/in-tandem/andremendieta-crtc"
+      }, {
+        "label" : "Contributor",
+        "value" : "Value"
+      }, {
+        "label" : "Publisher",
+        "value" : "Edizione R. R. Bulla. Rome"
+      }, {
+        "label" : "Type",
+        "value" : "Drawings and Prints /  One from an illustrated book with twenty lithographs and four letterpress prints (including cover)"
+      }, {
+        "label" : "Format",
+        "value" : "Book Printed by R. Bulla Studio, Rome "
+      }, {
+        "label" : "Extent",
+        "value" : "11 15/16 × 5 7/16\" (30.4 × 13.8 cm); page (each): 13 7/16 × 9 5/8\" (34.2 × 24.5 cm)"
+      }, {
+        "label" : "Identifier",
+        "value" : "321.1985.4"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/15601"
+      }, {
+        "label" : "Language",
+        "value" : "English"
+      }, {
+        "label" : "Is referenced by ",
+        "value" : "Rome Prize / 1983"
+      }, {
+        "label" : "Is part of",
+        "value" : "American Academy Residency"
+      }, {
+        "label" : "Copyright",
+        "value" : "Edizione R. R. Bulla. Rome"
+      }, {
+        "label" : "General Keywords",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Land Art; Sculpture; Contemporary Art; Latin American Art."
+      } ]
+    }, {
+      "@id" : "http://9a807029-480d-4e3e-96e9-fff6d132014a",
+      "@type" : "sc:Canvas",
+      "label" : "Nile Born",
+      "height" : 838,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://bc46e802-7396-4cf6-8ad0-ccfc37464813",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/NileBorn1984.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/NileBorn1984.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 1676000,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 838,
+          "width" : 2000
+        },
+        "on" : "http://9a807029-480d-4e3e-96e9-fff6d132014a"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Nile Born"
+      }, {
+        "label" : "Creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "Subject",
+        "value" : "Feminist Art; Sculpture; Natural Elements;  Land Art; Latin American Art"
+      }, {
+        "label" : "Date",
+        "value" : "1984"
+      }, {
+        "label" : "Description",
+        "value" : "In its striking simplicity, Nile Born embodies the communion of a female figure and the land. A simple wooden form is covered in sand, and a large inner channel suggests a vaginal cavity. Organic and sensual, the silhouette represents the body in its most basic form. \"My art is the way I reestablish the bonds that unite me to the universe,\" Mendieta said. \"It is a return to the maternal source.\" Born in Cuba, Mendieta was separated from her family at age twelve and exiled to the United States, where she lived in orphanages and foster homes in Iowa throughout her youth.\n\nWorks in Mendieta's Silueta series, like Nile Born, are often site-specific, earthbound, and subject to the elements and the fragility of the organic materials from which they are made. Nile Born is one of the last Siluetas Mendieta made before her death in 1985, and the title refers to Cuba's African heritage. The work is an arresting exploration of self, place, belonging, and alienation, concepts that permeate Mendieta's entire oeuvre of installations, earthworks, performances, videos, and sculptures.\n\nPublication excerpt from The Museum of Modern Art, MoMA\nHighlights since 1980, New York: The Museum of Modern Art, p. 48."
+      }, {
+        "label" : "Contributor",
+        "value" : "Gift of Agnes Gund"
+      }, {
+        "label" : "Publisher",
+        "value" : "MoMA Collections"
+      }, {
+        "label" : "Type",
+        "value" : "Sculpture "
+      }, {
+        "label" : "Format",
+        "value" : "Sand and binder on wood"
+      }, {
+        "label" : "Extent",
+        "value" : "3/4 x 19 1/4 x 61 1/2\" (7 x 48.9 x 156.2 cm)"
+      }, {
+        "label" : "Identifier",
+        "value" : "167.1992"
+      }, {
+        "label" : "Source",
+        "value" : "https://www.moma.org/collection/works/81059"
+      }, {
+        "label" : "Language",
+        "value" : "English"
+      }, {
+        "label" : "Is referenced by:",
+        "value" : "Poetry Project: After Ana Mendieta’s Nile Born by Aracelis Girmay:  https://www.moma.org/magazine/articles/158</dcterms:isReferencedBy"
+      }, {
+        "label" : "Is part of",
+        "value" : "Exhibitions: \n-Installation view of the gallery \"Body on the Line\" in the exhibition \"Collection 1940s–1970s\" (2021-Ongoing)\n-Installation view of the gallery \"Body on the Line\" in the exhibition \"Collection 1940s–1970s\" (2019-2020)\n-Installation view of the gallery \"Print, Fold, Send\" in the exhibition \"Collection 1970s–Present\" (2019-2022)\n-Installation view of the exhibition \"Studio Visit: Selected Gifts from Agnes Gund\" (2018)\n-Artful Practices for Well-Being: https://www.moma.org/audio/playlist/309/4097"
+      }, {
+        "label" : "Copyright",
+        "value" : "© 2023 Estate of Ana Mendieta Collection"
+      }, {
+        "label" : "General Keywords",
+        "value" : "Feminist Art; Photography; Body Art; Self-Portrait; Performance; Land Art; Sculpture; Contemporary Art; Latin American Art."
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
